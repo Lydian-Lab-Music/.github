@@ -1,10 +1,10 @@
-## Welcome to the GitHub home of LydianLab!
+## Welcome to the GitHub home of Lydian Lab Music!
 
 We are a small web development agency specializing in building custom solutions for our clients' online needs. Our focus is on crafting user-friendly applications with modern technologies for clients in music education.
 
 We recently partnered with an acclaimed jazz camp to develop a web application enabling prospective students to take their music theory placement exams online. Building features for musicians and music educators is our specialty.
 
-Our main tech stack relies on TypeScript, Next.js, Firebase, and Tailwind CSS to rapidly develop secure, scalable websites and apps. We are also experienced in incorporating third-party API integrations, authentication, databases, and other business logic. We work closely with each client to deeply understand their needs before architecting customized solutions.
+Our main tech stack relies on TypeScript, Next.js, and Firebase to rapidly develop secure, scalable websites and apps. We are also experienced in incorporating third-party API integrations, authentication, databases, and other business logic. We work closely with each client to deeply understand their needs before architecting customized solutions.
 
 Bottom line, we deliver. Get in touch to transform your music education web goals into reality.
 
